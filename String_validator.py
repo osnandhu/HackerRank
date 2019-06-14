@@ -24,6 +24,6 @@ In the fifth line, print True if  has any uppercase characters. Otherwise, print
 """
 s = input("Enter a string")
 # To evaluate whether any character of the string contains an uppercase/lowercase/etc- Note: any character of the string:
-for test in ("isalnum","isalpha","isdigit","isupper","islower"):
+for test in ("isalnum","isalpha","isdigit","islower","isupper"):
     print(any(eval("c." + test + "()") for c in s ))
 
