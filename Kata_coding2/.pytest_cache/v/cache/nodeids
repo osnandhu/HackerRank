@@ -1,0 +1,10 @@
+[
+  "FizzBuzz_Test.py::test_passing_test",
+  "FizzBuzz_Test.py::test_returns_a_list",
+  "FizzBuzz_Test.py::test_list_contains_int",
+  "FizzBuzz_Test.py::test_list_contains_str",
+  "FizzBuzz_Test.py::test_Fizz",
+  "FizzBuzz_Test.py::test_Buzz",
+  "FizzBuzz_Test.py::test_FizzBuzz",
+  "FizzBuzz_Test.py::test_digit"
+]
