@@ -12,3 +12,8 @@ class FizzBuzz:
             else:
                 result.append(i)
         return result
+if __name__=='__main__':
+    fb = FizzBuzz()
+    n = int(input("Enter the limit : "))
+    result = fb.getNumber(n)
+    print(result)
